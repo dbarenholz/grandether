@@ -1,0 +1,5 @@
+legit.com. { 
+   file db.test
+    log
+    errors
+}
