@@ -1,5 +1,0 @@
-$ORIGIN com.
-@ IN SOA ns.com. username.com. ( 2007120710 1d 2h 4w 1h )
-
-ns.legit.com. IN A 192.168.56.101
-legit.com. IN NS ns.legit.com.
