@@ -1,5 +1,5 @@
 . { 
-   file db.test
+    file tld.db
     log
     errors
 }
