@@ -1,5 +1,5 @@
 . {
-    file db.test
+    file attacker.db
     log
     errors
 }
