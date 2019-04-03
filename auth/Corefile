@@ -1,5 +1,5 @@
 legit.com. { 
-   file db.test
+   file auth.db
     log
     errors
 }
